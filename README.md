@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm Passionate in VR/AR Development<br>- 📚 My hobby is to learn Software and new technologies or explore my personal interests<br>- ⚡ In my free time I love to read books, novels or write my own novel , watch anime,play chess</p>
+<p align="left">- 🔭 I'm Very Passionate in VR/AR Development<br>- 📚 My hobby is to learn Software and new technologies or explore my personal interests<br>- ⚡ In my free time I love to read books, novels or write my own novel , watch anime,play chess</p>
 
 ###
 
