@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm Very Passionate in VR/AR Development<br>- 📚 My hobby is to learn Software and new technologies or explore my personal interests<br>- ⚡ In my free time I love to read books, novels or write my own novel , watch anime,play chess</p>
+<p align="left">- 🔭 I'm a XR Developer,motivated to experiment innovative solutions to achieve captivating experiences in the virtual space<br>- 📚 My hobby is to learn Software and new technologies or explore my personal interests<br></p>
 
 ###
 
@@ -32,20 +32,18 @@
 ###
   
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="background-color:white;" alt="GitHub logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+ <img src="https://img.icons8.com/?size=100&id=PvvcWRWxRKSR&format=png&color=000000" height="40" alt="Meta SDK logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="background-color:white;"alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
 
 ###
 <!--
